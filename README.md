@@ -1,10 +1,6 @@
-# Angular Todo App
+## Sessional Helper Application Angular  App
 
-This repo accompanies a series of articles on [building an Angular CRUD app from the ground up](https://www.sitepoint.com/series/build-an-angular-crud-app-from-the-ground-up/).
- +
- +Each article in this series has a corresponding tag in the repository so you can switch back and forth between the different states of the application.
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+Nowadays receiving information via text message or whatsapp is very confusing for the teachers as well the students, so making an app called sessional exam helper will create a lot of ease for the students and teachers. Generally, we miss those important messages in the mid of other messages and we don’t find it when required. This app will help a lot and will display all data in a sorted way and it is also very much easier for the Teachers to provide the information such as syllabus and exam dates in their respective subjects.
 
 ## Development server
 
